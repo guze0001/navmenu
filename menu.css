@@ -54,12 +54,16 @@ p {
     margin: 0 auto;
     background-color: #D8FFFF;
     color:  #6C7F7F;
+    box-shadow: 2px 1px 0px #D8FFFF;
+
 }
 
 header {
     border-bottom: 0.8rem solid #70CCCB;
     background-color: #467F7F;
     color: #D8FFFF;
+    box-shadow: 2px 1px 1px #467F7F;
+    width: 100%
 }
 
 
