@@ -36,7 +36,7 @@ h2 {
     font-size: 2rem;
     /* ADD the Google serif font to this font stack */
     font-family: Bitter, 'Book Antiqua', Palatino, serif;
-    padding: 1rem 2rem;
+    padding: 0.3rem 2rem;
 }
 
 nav li {
@@ -54,7 +54,7 @@ p {
     margin: 0 auto;
     background-color: #D8FFFF;
     color:  #6C7F7F;
-    box-shadow: 2px 1px 0px #D8FFFF;
+    box-shadow: 2px 1px 4px #D8FFFF;
 
 }
 
@@ -62,7 +62,7 @@ header {
     border-bottom: 0.8rem solid #70CCCB;
     background-color: #467F7F;
     color: #D8FFFF;
-    box-shadow: 2px 1px 1px #467F7F;
+    box-shadow: 2px 1px 4px #467F7F;
     width: 100%
 }
 
@@ -73,6 +73,7 @@ header {
 
 .menu-h {
     width: 100%;
+    margin-top: 10px;
 }
 
 .menu-h li {
@@ -115,7 +116,7 @@ header {
 .menu-v {
     width: 20%;
     float: left;
-    margin-top: 25px;
+    margin-top: 16px;
 }
 
 .menu-v li {
